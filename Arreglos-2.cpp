@@ -1,4 +1,4 @@
-//Crea una funcion que rellene un arreglo 
+//Crea una funcion que suma dos arreglos
 #include <iostream>
 using namespace std;
 
